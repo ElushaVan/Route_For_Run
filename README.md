@@ -9,6 +9,7 @@ Route for Run is a React Native mobile application built with [Expo](https://exp
 - **OSRM Integration:** Uses the project-OSRM routing API to calculate foot-router-friendly pathways.
 - **Interactive Map:** Visualizes the start/finish marker and the exact path of the generated route directly on a map using `react-native-maps`.
 - **Target Distance Matching:** Continually adjusts the radius coordinates to closely match your desired target distance before generating the route.
+<<<<\
 
 ## 🛠️ Required Technologies & Libraries
 
